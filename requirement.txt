@@ -6,3 +6,4 @@ nltk
 scikit-learn
 scikit-image
 ipywidgets
+click
