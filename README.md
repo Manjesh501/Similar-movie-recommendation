@@ -60,8 +60,8 @@ streamlit run main.py
 ```
 
 2. Open your web browser and navigate to `http://localhost:8501`
-![Preference-based recommendations](images/preference.jpg)
-![Similar movie recommendations](images/similar.jpg)
+![Preference-based recommendations](preference.jpg)
+![Similar movie recommendations](similar.jpg)
 
 3. Choose your recommendation type:
    - **By Preferences**: Select genres, mood, and available time
